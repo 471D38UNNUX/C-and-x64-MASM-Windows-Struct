@@ -1,0 +1,4 @@
+﻿  Assembling Struct.asm...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  Struct.vcxproj -> D:\Assembly Project\Struct\x64\Release\Struct.exe
